@@ -12,7 +12,7 @@ export class Table extends React.Component {
   }
 
   static defaultProps = {
-    tableResponse: true,
+    tableResponsive: true,
     tableHover: true,
     tableStriped: false,
     tableCondensed: false,
